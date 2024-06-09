@@ -1,0 +1,5 @@
+pytube==11.0.1
+requests==2.26.0
+python-dotenv==0.19.1
+spotipy==2.19.1
+tk==0.1.0
